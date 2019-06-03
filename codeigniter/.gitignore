@@ -1,0 +1,6 @@
+/data
+/.git
+/mysql
+/codeigniter/css/**/*.map
+/codeigniter/css/**/*.css
+!/codeigniter/css/estilos.css
